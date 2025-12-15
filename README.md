@@ -52,7 +52,8 @@ RTL LOGIC FOR FLIPFLOP:
 [EX 06 Dia.pdf](https://github.com/user-attachments/files/24148954/EX.06.Dia.pdf)
 
 wave form sr flip flop : 
-<img width="1179" height="771" alt="WAVE" src="https://github.com/user-attachments/assets/05b753b1-97ab-4273-b05c-fb9d65e10100" />
+
+[SR_WAVE.pdf](https://github.com/user-attachments/files/24170275/SR_WAVE.pdf)
 
 NAME: HEMA PRIYA
 
